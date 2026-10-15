@@ -7,3 +7,6 @@ BasicLesson/
 lesson/
 projects/
 aiogram3_lessons/
+database.db
+users.db
+*.db
