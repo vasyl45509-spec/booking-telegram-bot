@@ -1,5 +1,9 @@
 config1.py
 booking.sqlite3
 venv/
-users.db
-database.db
+.idea/
+__pycache__/
+BasicLesson/
+lesson/
+projects/
+aiogram3_lessons/
